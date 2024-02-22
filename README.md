@@ -13,7 +13,7 @@
 
 <br>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viet281101&theme=dark" alt=viet281101 /></p>
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/vnguyen14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/vnguyen14" height="30" width="40" /></a>
