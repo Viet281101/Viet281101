@@ -7,7 +7,6 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Viet281101?hide_border=true&theme=dark)](https://leetcode.com/u/Viet281101/)
 
-<br>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viet281101&theme=dark" alt=viet281101 /></p>
 
 <h3 align="left">Connect with me:</h3>
