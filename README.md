@@ -1,15 +1,11 @@
 <h1 align="left">Hi 👋, I'm Viet Nguyen</h1>
 <h3 align="left">A passionate computer science student</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=viet281101&hide_border=true&langs_count=12&hide_title=true&show_icons=true&locale=en&layout=compact&theme=dark" alt="viet281101" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=viet281101&hide_border=true&langs_count=16&hide_title=true&show_icons=true&locale=en&layout=compact&theme=dark" alt="viet281101" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viet281101&label=Profile%20views&color=0e75b6&style=flat" alt="viet281101" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, react, socket.io, database, etc ,...**
-
-- 📫 How to reach me **nva281101@gmail.com**
-
-- ⚡ Fun fact **When you make the game you will enjoy it as much as you do playing it**
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Viet281101?theme=dark)](https://leetcode.com/u/Viet281101/)
 
 <br>
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viet281101&theme=dark" alt=viet281101 /></p>
