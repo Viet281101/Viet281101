@@ -7,7 +7,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Viet281101?hide_border=true&theme=dark)](https://leetcode.com/u/Viet281101/)
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=Viet281101&theme=none" alt="Viet281101"/><p>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Viet281101&screen_effect=false&theme=dark&pixelate_avatar=false" alt="Viet281101"/><p>
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viet281101&theme=dark" alt=viet281101 /></p>
 
