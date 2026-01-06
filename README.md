@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Viet Nguyen</h1>
 <h3 align="left">A passionate computer science student</h3>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=viet281101&hide_border=true&langs_count=16&hide_title=true&show_icons=true&locale=en&layout=compact&theme=dark" alt="viet281101"/></p>
+<p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viet281101&theme=dark" alt="viet281101"/></p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=viet281101&label=Profile%20views&color=0e75b6&style=flat" alt="viet281101"/></p>
 
